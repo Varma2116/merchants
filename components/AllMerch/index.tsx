@@ -33,8 +33,6 @@ import {
   fetchFooterBannersRequest,
 } from "@/actions/strapiActions";
 import Image from "next/image";
-// import { useSearchParams } from "next/navigation";
-
 const EnquiryProductsPage = ({
   enquiryProducts,
   enquiryProductsType,
